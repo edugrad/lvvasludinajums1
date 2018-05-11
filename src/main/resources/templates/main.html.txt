@@ -12,12 +12,12 @@
 <nav class="navbar navbar-inverse">
     <div class="container">
         <div class="navbar-header">
-            <a class="navbar-brand" href="#">Sludinaajumu portaals</a>
+            <a class="navbar-brand" href="#">Sludinajumu portals</a>
         </div>
         <div id="navbar" class="collapesenavbar-collapse">
             <ul class="nac navbar-nav">
-                <li class="active"><a href="#">Back</a></li>
-                <li><a href="#more"> Another</a></li>
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#About"> About</a></li>
             </ul>
         </div>
     </div>
@@ -60,7 +60,7 @@
 <nav class="navbar navbar-inverse">
     <div class="container">
         <div class="navbar-header">
-            <a class="navbar-brand" href="#">Sludinaajumu portaals</a>
+            <a class="navbar-brand" href="#">Sludinajumu portals</a>
         </div>
         <div id="navbar" class="collapesenavbar-collapse">
             <ul class="nac navbar-nav">
